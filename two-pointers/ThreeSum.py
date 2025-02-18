@@ -23,3 +23,7 @@ class Solution:
                     while nums[l] == nums[l-1] and l<r :
                         l+=1
         return ans
+    
+## Question Link : https://leetcode.com/problems/3sum/description/
+## Time Complextiy : O(n^2)
+## Space Complexity : O(n)

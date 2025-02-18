@@ -15,3 +15,6 @@ class Solution:
                 r-=1
         return count
             
+## Question Link : https://leetcode.com/problems/max-number-of-k-sum-pairs/description/?envType=problem-list-v2&envId=two-pointers
+## Time Complexity : O(nlogn)
+## Space Complexity : O(1)

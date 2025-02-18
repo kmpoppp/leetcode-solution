@@ -8,3 +8,7 @@ class Solution:
             else:
                 l = m+1
         return nums[l]
+    
+## Question Link : https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+## Time Complexity : O(logn)
+## Space Complxeity : O(1)
